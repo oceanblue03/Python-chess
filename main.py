@@ -3,3 +3,4 @@ while running:
   print("loop")
   
 print("hello")
+s=5
