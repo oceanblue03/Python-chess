@@ -6,3 +6,4 @@ while running:
   
 print("hello")
 s=5
+ww = input("Hi")
